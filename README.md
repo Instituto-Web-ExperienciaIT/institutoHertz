@@ -9,7 +9,7 @@ Para el público en general se presenta un Home Page y sus subsecciones
 Para Alumnos, Docente y empleados:
 - Acceso a plataforma con permisos exclusivos para realizar sus principales flujos
 
-## Tegnologías:
+## Tecnologías:
 FrontEnd:
 React.Js  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="50"/>   
